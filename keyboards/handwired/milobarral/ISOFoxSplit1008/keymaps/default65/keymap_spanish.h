@@ -26,7 +26,7 @@
 #define ES_GRV	KC_LBRC
 #define ES_PLUS	KC_RBRC
 
-#define ES_NTIL	KC_SCLN //ñ
+#define ES_NTIL	KC_SCLN
 #define ES_ACUT	KC_QUOT
 #define ES_CCED	KC_NUHS
 
