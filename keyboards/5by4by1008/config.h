@@ -25,7 +25,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define DEVICE_VER      0x0001
 #define MANUFACTURER    Milo Barral
 #define PRODUCT         5by4by1008
-#define DESCRIPTION     A custom keyboard
+#define DESCRIPTION     A 20key custom keyboard
 
 /* key matrix size */
 #define MATRIX_ROWS 5
@@ -41,9 +41,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
  *                  ROW2COL = ROW = Anode (+), COL = Cathode (-, marked on diode)
  *
 */
-#define MATRIX_ROW_PINS { PC6, PD7, PE6, PB4, PB5 }
-#define MATRIX_COL_PINS { PB6, PB2, PB3, PB1 }
-#define UNUSED_PINS { PD3, PD2, PD1, PD0, PD4, PF4, PF5, PF6, PF7 }
+#define MATRIX_ROW_PINS { C6, D7, E6, B4, B5 }
+#define MATRIX_COL_PINS { B6, B2, B3, B1 }
+#define UNUSED_PINS { D3, D2, D1, D4, F4, F5, F6, F7 }
 
 /* COL2ROW, ROW2COL*/
 #define DIODE_DIRECTION COL2ROW
