@@ -69,6 +69,6 @@ COL9      B5    | []9          10[] |   B6     COL8
 #define LOCKING_RESYNC_ENABLE
 
 /* ws2812 RGB LED */
-#define RGB_DI_PIN D3
-#define RGBLIGHT_ANIMATIONS
-#define RGBLED_NUM 16    // Number of LEDs
+//#define RGB_DI_PIN D3
+//#define RGBLIGHT_ANIMATIONS
+//#define RGBLED_NUM 16    // Number of LEDs
