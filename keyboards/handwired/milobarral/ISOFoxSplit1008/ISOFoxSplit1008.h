@@ -1,6 +1,6 @@
 #pragma once
 
-#include "quefrency.h"
+#include "ISOFoxSplit1008.h"
 
 #include "quantum.h"
 
