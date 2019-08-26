@@ -29,7 +29,7 @@
     { RA1, RA2,   RA3, RA4,   RA5, RA6, KC_NO, RA8,   RA9 }, \
     { RB1, RB2,   RB3, RB4,   RB5, RB6, RB7,   RB8,   RB9 }, \
     { RC1, RC2,   RC3, RC4,   RC5, RC6, RC7,   KC_NO, RC9 }, \
-    { RD1, RD2,   RD3, RD4,   RD5, KC_NO, RD7,   RD8,   RD9 }, \
+    { RD1, RD2,   RD3, RD4,   RD5, KC_NO, RD7, RD8,   RD9 }, \
     { RE1, KC_NO, RE3, RE4,   RE5, RE6, RE7,   RE8,   RE9 }, \
   }
 
