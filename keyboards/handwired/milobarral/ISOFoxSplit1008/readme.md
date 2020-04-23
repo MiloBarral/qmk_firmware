@@ -28,10 +28,10 @@ This does not work, I´ll have to fix it someday:
 
 ![](images/build10.jpg)
 
-
-
 ![](images/cable0003.jpg)
 
 ![](images/cable0006.jpg)
 
 ![](images/cable0009.jpg)
+
+![](images/build_finish.jpg)
