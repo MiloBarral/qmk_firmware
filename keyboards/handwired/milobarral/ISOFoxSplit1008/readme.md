@@ -25,6 +25,8 @@ This is a WIP and needs additional information. Keycaps obviously unrelated to f
 
 ![](images/build06.jpg)
 
+![](images/buildIDE.jpg)
+
 ![](images/build07.jpg)
 
 ![](images/build08.jpg)
