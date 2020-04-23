@@ -19,17 +19,10 @@ This is a WIP and needs additional information. Keycaps obviously unrelated to f
 
 ![](images/build04.jpg)
 
-![](images/build045.jpg)
-
 ![](images/build05.jpg)
 
-![](images/build06.jpg)
-
-![](images/buildIDE.jpg)
-
+This does not work, I´ll have to fix it someday:
 ![](images/build07.jpg)
-
-![](images/build08.jpg)
 
 ![](images/build09.jpg)
 
